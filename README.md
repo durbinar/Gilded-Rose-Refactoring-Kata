@@ -2,7 +2,8 @@
 
 ## Overview
 The Guilded Rose challenge is a coding exercise that involves updating the quality of items in a shop based on specific rules. This repository contains a straightforward solution that effectively addresses the problem without unnecessary complexity.
-Solution Approach
+
+## Solution Approach
 
 In this implementation, I focused on simplicity and clarity. The goal was to create a solution that is easy to understand and maintain, demonstrating that not every problem requires an over-engineered approach.
 Key Features of the Solution

@@ -1,7 +1,7 @@
 # Gilded-Rose-Refactoring-Kata
 
 ## Overview
-The Guilded Rose challenge is a coding exercise that involves updating the quality of items in a shop based on specific rules. This repository contains a straightforward solution that effectively addresses the problem without unnecessary complexity.
+The Guilded Rose challenge is a coding exercise that involves updating the quality of items in a shop based on specific [rules](https://github.com/NotMyself/GildedRose) . This repository contains a straightforward solution that effectively addresses the problem without unnecessary complexity.
 
 ## Solution Approach
 
